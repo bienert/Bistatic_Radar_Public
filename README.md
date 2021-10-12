@@ -1,5 +1,9 @@
 # Inglacial ReadMe
-This repository accompanies a paper in review titled "Post-Processing Synchronized Bistatic Radar for Long Offset Glacial Sounding". Please cite this paper to comply with our license when redistributing transformed versions of this work (e.g. publishing a paper on experiments which which used some code from this repo). For example: N. Bienert *et al.,* "Post-Processing Synchronized Bistatic Radar for Long Offset Glacial Sounding," *IEEE TRANS. Geosci. Remote Sens.,* in review. 
+This repository accompanies a paper in review titled "Post-Processing Synchronized Bistatic Radar for Long Offset Glacial Sounding". 
+
+Please cite this paper and our code to comply with our license when redistributing transformed versions of this work (e.g. publishing a paper on experiments which which used some code from this repo). 
+* N. Bienert *et al,.* *bienert/Bistatic_Radar_Public: v1.0.0.* (v1.0.0., 2021), Zenodo. [Online] https://doi.org/10.5281/zenodo.5565362
+* N. Bienert *et al.,* "Post-Processing Synchronized Bistatic Radar for Long Offset Glacial Sounding," *IEEE TRANS. Geosci. Remote Sens.,* in review. 
 
 ## Welcome 
 Welcome to *InGlacial*. This repository provides a collection of functions and scripts that make up a novel signal processing chain capable of synchronizing data from an unsynchronized transmitter-receiver pair. *InGlacial* accompanies our ongoing research at the [Stanford Radio-glaciology Lab](https://www.radioglaciology.com/) developing bistatic radar tomography. If you are interested in learning more about the experimental setup, please refer to our [manual for that](https://github.com/bienert/Bistatic_Radar/blob/main/Bienert's%20Bistatic%20Manual.pdf). We hope that this repository can be helpful to you in your research. 
